@@ -1,4 +1,4 @@
-package com.util;
+package com.wangweibo.util;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

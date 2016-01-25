@@ -1,4 +1,4 @@
-package com.pojo;
+package com.wangweibo.pojo;
 
 public class Genre {
 private String genreId;

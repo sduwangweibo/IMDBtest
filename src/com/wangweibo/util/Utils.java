@@ -1,14 +1,14 @@
-package com.util;
+package com.wangweibo.util;
 
 import java.text.DecimalFormat;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.pojo.Actor;
-import com.pojo.Director;
-import com.pojo.Genre;
-import com.pojo.Movie;
-import com.pojo.User;
+import com.wangweibo.pojo.Actor;
+import com.wangweibo.pojo.Director;
+import com.wangweibo.pojo.Genre;
+import com.wangweibo.pojo.Movie;
+import com.wangweibo.pojo.User;
 
 public class Utils {
 
